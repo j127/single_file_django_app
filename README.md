@@ -1,6 +1,6 @@
 # Tiny Django App
 
-This is a one-file Django app that is based on chapter 1 of the book _Lightweight Django_.
+This is a one-file Django app that is based on chapter 1 of the book [_Lightweight Django_]https://www.oreilly.com/library/view/lightweight-django/9781491946275/) (with some modifications).
 
 ## Running It
 
