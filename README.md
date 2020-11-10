@@ -1,8 +1,10 @@
 # Tiny Django App
 
-This is a one-file Django app that is based on chapter 1 of the book [_Lightweight Django_]https://www.oreilly.com/library/view/lightweight-django/9781491946275/) (with some modifications).
+This is a one-file Django app that is based on chapter 1 of the book [_Lightweight Django_](https://www.oreilly.com/library/view/lightweight-django/9781491946275/) (with some modifications).
 
 **Note:** this is not the normal way to build a Django site -- it's just a proof of concept from the book. To learn how to build a Django site, check out the [official tutorial](https://www.djangoproject.com/start/).
+
+There are some dotfiles in the repo that don't relate directly to Django. The only relevant files to the app are `app.py` and `.env-example`. Look in those files to see how it works.
 
 ## Running It
 
