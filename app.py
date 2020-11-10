@@ -34,9 +34,15 @@ settings.configure(
 
 
 def index(request):
+    """This is a Django view that takes a request and sends a response.
+
+    A Django "view" is equivalent to a "controller" in some other popular
+    frameworks.
+    """
     return HttpResponse("hello world")
 
 
+# This is the router
 urlpatterns = (
     url(r"^$", index),
 )
