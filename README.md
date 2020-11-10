@@ -2,6 +2,8 @@
 
 This is a one-file Django app that is based on chapter 1 of the book [_Lightweight Django_]https://www.oreilly.com/library/view/lightweight-django/9781491946275/) (with some modifications).
 
+**Note:** this is not the normal way to build a Django site -- it's just a proof of concept from the book. To learn how to build a Django site, check out the [official tutorial](https://www.djangoproject.com/start/).
+
 ## Running It
 
 First, create a virtual environment and activate it:
